@@ -1,3 +1,18 @@
+# Data 
+*.html
+*.png
+*.pdf
+*.gif
+*.jpeg
+*.csv
+*.xlsx
+*.pptx
+*.xls
+*.doc
+*.docx
+*.xlsm
+*.ppt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
